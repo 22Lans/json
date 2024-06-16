@@ -1,0 +1,44 @@
+{
+    "usuarios": [
+        {
+            "id":"12345",
+            "nombre":"Admin",
+            "edad":"26",
+            "contraseña": "123",
+            "rol": "administracion",
+            "rango": "Administrador",
+            "correo":"admin@gmail.com",
+            "telefono":"300564897"
+        },
+        {
+            "id":"56789",
+            "nombre":"Profesor",
+            "edad":"39",
+            "contraseña": "321654",
+            "rol": "user",
+            "rango": "Profesor",
+            "correo":"profe@gmail.com",
+            "telefono":"304484897"
+        },
+        {
+            "id":"67891",
+            "nombre":"Estudiante",
+            "edad":"19",
+            "contraseña": "estudiante",
+            "rol": "user",
+            "rango": "Estudiante",
+            "correo":"estudiante@gmail.com",
+            "telefono":"3012346897"
+        },
+        {
+            "id":"1108527341",
+            "nombre":"Mario",
+            "edad":"24",
+            "contraseña": "000",
+            "rol": "user",
+            "rango": "Estudiante",
+            "correo":"mario@gmail.com",
+            "telefono":"321678752"
+        }
+    ]
+}

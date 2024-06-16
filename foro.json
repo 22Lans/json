@@ -1,0 +1,28 @@
+{
+    "descripcion": [
+        {
+            "id":"12345",
+            "tema":"ayuda estudiantil",
+            "descripcion":"La ayuda estudiantil proporciona recursos financieros y apoyo académico para que los estudiantes puedan acceder a la educación superior sin enfrentar barreras económicas significativas.",
+            "respuestas":"12"
+        },
+        {
+            "id":"13456",
+            "tema":"horarios academicos",
+            "descripcion":"Los horarios académicos estructuran el tiempo de clases, actividades y estudios en una institución educativa, asegurando una organización eficiente y equilibrada del día académico.",
+            "respuestas":"68"
+        },
+        {
+            "id":"54321",
+            "tema":"clases de la semana",
+            "descripcion":"Las clases de la semana se refieren al conjunto de sesiones educativas programadas regularmente a lo largo de los días laborables.",
+            "respuestas":"28"
+        },
+        {
+            "id":"987654",
+            "tema":"sedes de la institucion",
+            "descripcion":"Las sedes de una institución son los diferentes campus o edificios donde se imparten clases y se llevan a cabo actividades académicas y administrativas.",
+            "respuestas":"1"
+        }
+    ]
+}
