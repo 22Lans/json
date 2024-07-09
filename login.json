@@ -1,44 +1,40 @@
 {
     "usuarios": [
         {
-            "id":"12345",
+            "id":"2",
             "nombre":"Admin",
-            "edad":"26",
-            "contraseña": "123",
-            "rol": "administracion",
-            "rango": "Administrador",
+            "apellido":"prueba",
             "correo":"admin@gmail.com",
-            "telefono":"300564897"
+            "carrera":"Ingenieria",
+            "contraseña":"123",
+            "rol":"admin"
         },
         {
-            "id":"56789",
-            "nombre":"Profesor",
-            "edad":"39",
-            "contraseña": "321654",
-            "rol": "user",
-            "rango": "Profesor",
-            "correo":"profe@gmail.com",
-            "telefono":"304484897"
+            "id":"3",
+            "nombre":"Docente",
+            "apellido":"profesor",
+            "correo":"docente@gmail.com",
+            "carrera":"Ingenieria",
+            "contraseña":"123",
+            "rol":"docente"
         },
         {
-            "id":"67891",
+            "id":"4",
+            "nombre":"Decano",
+            "apellido":"lider",
+            "correo":"decano@gmail.com",
+            "carrera":"Ingenieria",
+            "contraseña":"123",
+            "rol":"decano"
+        },
+        {
+            "id":"5",
             "nombre":"Estudiante",
-            "edad":"19",
-            "contraseña": "estudiante",
-            "rol": "user",
-            "rango": "Estudiante",
+            "apellido":"26",
             "correo":"estudiante@gmail.com",
-            "telefono":"3012346897"
-        },
-        {
-            "id":"1108527341",
-            "nombre":"Mario",
-            "edad":"24",
-            "contraseña": "000",
-            "rol": "user",
-            "rango": "Estudiante",
-            "correo":"mario@gmail.com",
-            "telefono":"321678752"
+            "carrera":"Ingenieria",
+            "contraseña":"123",
+            "rol":"estudiante"
         }
     ]
 }
